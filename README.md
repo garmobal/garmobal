@@ -1,5 +1,5 @@
 #### 👀 Hello
-Hi! I'm a Web developer.
+Hi! I'm a Full Stack developer.
 
 #### 🧐 Interests
 Travelling, food, puzzles, food, board games, piano and food.
