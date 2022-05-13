@@ -1,3 +1,2 @@
-#### 👀 Hello
-Hi! I'm a Full Stack developer.
+#### 👀 Hello! I'm a Full Stack developer.
 
